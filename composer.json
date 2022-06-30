@@ -1,0 +1,12 @@
+{
+    "name": "shipolapka/cms.loc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cms\\": "cms",
+            "Admin\\": "admin",
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
